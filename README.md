@@ -30,6 +30,10 @@
     <a href="https://anilist.co/user/kworkerr" target="_blank">
         <img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white" alt="AniList">
     </a>
+    <br>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Git-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
 </p>
 
 <h2 align="center">Pʀᴏᴊᴇᴄᴛs</h2>
