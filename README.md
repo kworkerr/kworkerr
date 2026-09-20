@@ -27,7 +27,6 @@
     <a href="https://www.last.fm/user/kworkerr" target="_blank">
         <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="Last.fm">
     </a>
-    <br>
     <a href="https://anilist.co/user/kworkerr" target="_blank">
         <img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white" alt="AniList">
     </a>
