@@ -32,7 +32,7 @@
     </a>
     <br>
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Git-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
 </p>
 
