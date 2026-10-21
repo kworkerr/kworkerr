@@ -21,9 +21,6 @@
 </p>
 
 <p align="center">
-    <a href="https://www.tiktok.com/@kworkerr" target="_blank">
-        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-    </a>
     <a href="https://www.last.fm/user/kworkerr" target="_blank">
         <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="Last.fm">
     </a>
@@ -31,9 +28,6 @@
         <img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white" alt="AniList">
     </a>
     <br>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
 </p>
 
 <h2 align="center">Pʀᴏᴊᴇᴄᴛs</h2>
